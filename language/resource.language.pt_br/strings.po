@@ -413,12 +413,8 @@ msgstr "Excluir atalho das configurações"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31079"
-msgid ""
-"Are you sure you want to remove the settings shortcut?[CR]Please ensure that "
-"you have an alternative method of accessing settings before you remove this "
-"shortcut."
-msgstr ""
-"Tem certeza de que deseja remover o atalho de configurações?[CR]Certifique-se de ter um método alternativo de acesso às configurações antes de remover este atalho."
+msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
+msgstr "Tem certeza de que deseja remover o atalho de configurações?[CR]Certifique-se de ter um método alternativo de acesso às configurações antes de remover este atalho."
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31080"
@@ -687,12 +683,8 @@ msgstr "Regras"
 
 #: /1080i/SmartPlaylistEditor.xml
 msgctxt "#31133"
-msgid ""
-"Set the type and add rules to create a smart playlist. These playlists are "
-"dynamic and include all media items from your database which apply to your "
-"chosen rules."
-msgstr ""
-"Defina o tipo e adicione regras para criar uma lista de reprodução inteligente. Essas listas de reprodução são dinâmicas e incluem todos os itens de mídia do seu banco de dados que se aplicam às regras escolhidas."
+msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
+msgstr "Defina o tipo e adicione regras para criar uma lista de reprodução inteligente. Essas listas de reprodução são dinâmicas e incluem todos os itens de mídia do seu banco de dados que se aplicam às regras escolhidas."
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31134"
@@ -892,7 +884,7 @@ msgstr "Linha de Poster Grande"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31173"
 msgid "widget"
-msgstr "widget"
+msgstr "widgets"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31174"
@@ -901,1035 +893,1060 @@ msgstr "Navegação"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31176"
-msgid "Simple background"
+msgid "Menu style"
 msgstr "Fundo simples"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31177"
-msgid "Menus"
+msgid "Simple background"
 msgstr "Menus"
 
-#: /shortcuts/overrides.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31178"
-msgid "Open Submenu"
+msgid "Menus"
 msgstr "Abrir Submenu"
 
-#: /1080i/SkinSettings.xml
+#: /shortcuts/overrides.xml
 msgctxt "#31179"
-msgid "Press up from home menu"
+msgid "Open Submenu"
 msgstr "Pressione para cima no menu inicial"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31180"
-msgid "Furniture"
+msgid "Press up from home menu"
 msgstr "Mobília"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31181"
-msgid "Weather with clock"
+msgid "Furniture"
 msgstr "Relógio com Clima"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31182"
-msgid "Always display stop button"
+msgid "Weather with clock"
 msgstr "Sempre exibir botão de parar"
 
-#: /1080i/script-skinshortcuts.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31183"
-msgid "Label"
+msgid "Always display stop button"
 msgstr "Rótulo"
 
-#: /1080i/Labels.xml
+#: /1080i/script-skinshortcuts.xml
 msgctxt "#31184"
-msgid "Wall"
+msgid "Label"
 msgstr "Parede"
 
-#: /1080i/script-skinshortcuts.xml
+#: /1080i/Labels.xml
 msgctxt "#31185"
-msgid "Autoscroll"
+msgid "Wall"
 msgstr "Rolagem automática"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/script-skinshortcuts.xml
 msgctxt "#31186"
-msgid "Behaviour"
+msgid "Autoscroll"
 msgstr "Comportamento"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31187"
-msgid "Autoscroll time interval"
+msgid "Behaviour"
 msgstr "Intervalo de tempo da rolagem automática"
 
-#: /1080i/script-skinshortcuts.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31188"
-msgid "Limit"
+msgid "Autoscroll time interval"
 msgstr "Limite"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/script-skinshortcuts.xml
 msgctxt "#31189"
-msgid "Autoclose OSD after X seconds"
+msgid "Limit"
 msgstr "Fechar automaticamente OSD depois de X segundos"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31190"
-msgid "EPGEventIcon for PVR fanart"
+msgid "Autoclose OSD after X seconds"
 msgstr "EPGEventIcon para fanart PVR"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31191"
-msgid "Aggregate full tv cast list"
+msgid "EPGEventIcon for PVR fanart"
 msgstr "Lista completa agregada de elenco de TV"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31192"
-msgid "Aggregate full tv crew list"
+msgid "Aggregate full tv cast list"
 msgstr "Lista completa agregada da equipe de TV"
 
-#: /1080i/Views_List.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31193"
-msgid "Square Playlist"
+msgid "Aggregate full tv crew list"
 msgstr "Lista de Reprodução Quadrada"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Views_List.xml
 msgctxt "#31194"
-msgid "Trailer button plays windowed"
+msgid "Square Playlist"
 msgstr "Botão de trailer reproduz em uma janela"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31195"
-msgid "Profile image"
+msgid "Trailer button plays windowed"
 msgstr "Imagem do perfil"
 
-#: /1080i/Custom_1120_Recommend.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31196"
-msgid "Up Next"
+msgid "Profile image"
 msgstr "A seguir"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Custom_1120_Recommend.xml
 msgctxt "#31197"
-msgid "Customise recommendations"
+msgid "Up Next"
 msgstr "Personalizar recomendações"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31198"
-msgid "Customise ratings"
+msgid "Customise recommendations"
 msgstr "Personalizar avaliações"
 
-#: /1080i/Items.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31199"
-msgid "Star"
+msgid "Customise ratings"
 msgstr "Estrela"
 
 #: /1080i/Items.xml
 msgctxt "#31200"
-msgid "User"
+msgid "Star"
 msgstr "Usuário"
 
 #: /1080i/Items.xml
 msgctxt "#31201"
-msgid "Critic"
+msgid "User"
 msgstr "Crítico"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Items.xml
 msgctxt "#31202"
-msgid "Ratings"
+msgid "Critic"
 msgstr "Avaliações"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31203"
-msgid "Customise"
+msgid "Ratings"
 msgstr "Personalizar"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31204"
-msgid "Background video"
+msgid "Customise"
 msgstr "Vídeo de fundo"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31205"
-msgid "Press down from row view scrollbar opens"
+msgid "Background video"
 msgstr "Pressionar para baixo na linha de exibição para abrir barra de rolagem"
 
-#: /1080i/Items.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31206"
-msgid "Ratings display placeholders when unavailable or updating"
+msgid "Press down from row view scrollbar opens"
 msgstr "As avaliações exibem espaços reservados quando indisponíveis ou atualizadas"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Items.xml
 msgctxt "#31207"
-msgid "Codec info with full expanded widgets"
+msgid "Ratings display placeholders when unavailable or updating"
 msgstr "Informações de codec com widgets expandidos completos"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31208"
-msgid "Expand plot on recommendations"
+msgid "Codec info with full expanded widgets"
 msgstr "Expandir a trama nas recomendações"
 
-#: /1080i/Items.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31209"
-msgid "Colour overlay"
+msgid "Expand plot on recommendations"
 msgstr "Cor de sobreposição"
 
 #: /1080i/Items.xml
 msgctxt "#31210"
-msgid "Animate fanart"
+msgid "Colour overlay"
 msgstr "Fanart animada"
 
 #: /1080i/Items.xml
 msgctxt "#31211"
-msgid "Artist slideshow"
+msgid "Animate fanart"
 msgstr "Slideshow do Artista"
 
 #: /1080i/Items.xml
 msgctxt "#31212"
-msgid "Scrolling text"
+msgid "Artist slideshow"
 msgstr "Texto de rolagem"
 
 #: /1080i/Items.xml
 msgctxt "#31213"
-msgid "Visualisation settings"
+msgid "Scrolling text"
 msgstr "Configurações de visualização"
 
 #: /1080i/Items.xml
 msgctxt "#31214"
-msgid "Visualisation presets"
+msgid "Visualisation settings"
 msgstr "Definições de visualização"
 
 #: /1080i/Items.xml
 msgctxt "#31215"
-msgid "Reviews"
+msgid "Visualisation presets"
 msgstr "Análises"
 
-#: /1080i/DialogPlayerProcessInfo.xml
+#: /1080i/Items.xml
 msgctxt "#31216"
-msgid "Video decoder"
+msgid "Reviews"
 msgstr "Decoder de vídeo"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31217"
-msgid "Pixel format"
+msgid "Video decoder"
 msgstr "Formato de pixel"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31218"
-msgid "Memory usage"
+msgid "Pixel format"
 msgstr "Uso da memória"
 
-#: /shortcuts/videos-1.DATA.xml
+#: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31219"
-msgid "Categories"
+msgid "Memory usage"
 msgstr "Categorias"
 
-#: /1080i/SkinSettings.xml
+#: /shortcuts/videos-1.DATA.xml
 msgctxt "#31220"
-msgid "Customise viewtypes"
+msgid "Categories"
 msgstr "Personalizar tipos de exibição"
 
-#: /1080i/Custom_1112_Backgrounds.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31221"
-msgid "Glass borders"
+msgid "Customise viewtypes"
 msgstr "Bordas de vidro"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31222"
-msgid "Overlay"
+msgid "Glass borders"
 msgstr "Sobreposição"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31223"
-msgid "Gridlines"
+msgid "Overlay"
 msgstr "Linha de grade"
 
-#: /1080i/Custom_1120_Recommend.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31224"
-msgid "Written by"
+msgid "Gridlines"
 msgstr "Escrito por"
 
 #: /1080i/Custom_1120_Recommend.xml
 msgctxt "#31225"
-msgid "Directed by"
+msgid "Written by"
 msgstr "Dirigido por"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Custom_1120_Recommend.xml
 msgctxt "#31226"
-msgid "Extra fanart"
+msgid "Directed by"
 msgstr "Fanart extra"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31227"
-msgid "Customise colours"
+msgid "Extra fanart"
 msgstr "Personalizar cores"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31228"
-msgid "Customise background"
+msgid "Customise colours"
 msgstr "Personalizar fundo"
 
-#: /1080i/script-skinshortcuts.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31229"
-msgid "Submenu widget"
+msgid "Customise background"
 msgstr "Widget de submenu"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/script-skinshortcuts.xml
 msgctxt "#31230"
-msgid "Reset all menus and widgets to defaults"
+msgid "Submenu widget"
 msgstr "Redefinir todos os menus e widgets para o padrão"
 
-#: /shortcuts/overrides.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31231"
-msgid "Auto-fit to width"
+msgid "Reset all menus and widgets to defaults"
 msgstr "Ajuste automático à largura"
 
-#: /1080i/SkinSettings.xml
+#: /shortcuts/overrides.xml
 msgctxt "#31232"
-msgid "TMDbHelper look-ups for PVR windows"
+msgid "Auto-fit to width"
 msgstr "TMDbHelper busca por janelas PVR"
 
-#: /1080i/Labels.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31233"
-msgid "Seek to"
+msgid "TMDbHelper look-ups for PVR windows"
 msgstr "Procurar por"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Labels.xml
 msgctxt "#31234"
-msgid "Customise indicators"
+msgid "Seek to"
 msgstr "Personalizar indicadores"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31235"
-msgid "Indicators"
+msgid "Customise indicators"
 msgstr "Indicadores"
 
-#: /1080i/Items.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31236"
-msgid "Collection"
+msgid "Indicators"
 msgstr "Coleções"
 
 #: /1080i/Items.xml
 msgctxt "#31237"
-msgid "Progress"
+msgid "Collection"
 msgstr "Progresso"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Items.xml
 msgctxt "#31238"
-msgid "Header"
+msgid "Progress"
 msgstr "Cabeçalho"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31239"
-msgid "Footer"
+msgid "Header"
 msgstr "Rodapé"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31240"
-msgid "Audio language flags"
+msgid "Footer"
 msgstr "Flags de idioma do áudio"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31241"
-msgid "Subtitle language flags"
+msgid "Audio language flags"
 msgstr "Flags de idioma da legenda"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31242"
-msgid "Media codec icons"
+msgid "Subtitle language flags"
 msgstr "Ícones do codec de mídia"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31243"
-msgid "Media provider icons"
+msgid "Media codec icons"
 msgstr "Ícones do provedor de mídia"
 
-#: /1080i/DialogSeekBar.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31244"
-msgid "Now playing"
+msgid "Media provider icons"
 msgstr "Reproduzindo agora"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/DialogSeekBar.xml
 msgctxt "#31245"
-msgid "Autoscroll labels"
+msgid "Now playing"
 msgstr "Rótulos de rolagem automática"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31246"
-msgid "Autoscroll textboxes"
+msgid "Autoscroll labels"
 msgstr "Caixa de texto de rolagem automática"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31247"
-msgid "Opaque texture for focused PVR widgets"
+msgid "Autoscroll textboxes"
 msgstr "Textura opaca para widgets focados em PVR"
 
-#: /1080i/Custom_1198_Startup.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31248"
-msgid "Building includes"
+msgid "Opaque texture for focused PVR widgets"
 msgstr "Construção incluí"
 
 #: /1080i/Custom_1198_Startup.xml
 msgctxt "#31249"
-msgid "Waiting for PVR"
+msgid "Building includes"
 msgstr "Aguardando por PVR"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Custom_1198_Startup.xml
 msgctxt "#31250"
-msgid "Search in home menu bar"
+msgid "Waiting for PVR"
 msgstr "Buscar na barra de menu inicial"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31251"
-msgid "Codecs displayed with seekbar"
+msgid "Search in home menu bar"
 msgstr "Codecs exibidos com barra de progresso"
 
-#: /1080i/Items.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31252"
-msgid "Catch-up"
+msgid "Codecs displayed with seekbar"
 msgstr "Alcançar"
 
-#: /shortcuts/template.xml
+#: /1080i/Items.xml
 msgctxt "#31253"
-msgid "Show more"
+msgid "Catch-up"
 msgstr "Mostrar mais"
 
-#: /1080i/SkinSettings.xml
+#: /shortcuts/template.xml
 msgctxt "#31254"
-msgid "Limited widgets have \"more items\" object"
-msgstr "Widget limitados tem objeto \”mais itens\”"
+msgid "Show more"
+msgstr "Widget limitados tem objeto ”mais itens”"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31255"
-msgid "Customise startup image"
+msgid "Limited widgets have \"more items\" object"
 msgstr "Personalizar imagem inicial"
 
-#: /1080i/DialogPlayerProcessInfo.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31256"
-msgid "Resource Usage"
+msgid "Customise startup image"
 msgstr "Uso de Recursos"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31257"
-msgid "Memory"
+msgid "Resource Usage"
 msgstr "Memória"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31258"
-msgid "CPU"
+msgid "Memory"
 msgstr "CPU"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31259"
-msgid "FPS"
+msgid "CPU"
 msgstr "FPS"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31260"
-msgid "AR"
+msgid "FPS"
 msgstr "AR"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31261"
-msgid "px"
+msgid "AR"
 msgstr "px"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31262"
-msgid "Hz"
+msgid "px"
 msgstr "Hz"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31263"
-msgid "bits"
+msgid "Hz"
 msgstr "bits"
 
-#: /1080i/Dialogs.xml
+#: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31264"
-msgid "Revenue"
+msgid "bits"
 msgstr "Receita"
 
 #: /1080i/Dialogs.xml
 msgctxt "#31265"
-msgid "Budget"
+msgid "Revenue"
 msgstr "Orçamento"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Dialogs.xml
 msgctxt "#31266"
-msgid "Pause video when opening info"
+msgid "Budget"
 msgstr "Pausar vídeo quando abrir info"
 
-#: /1080i/Info.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31267"
-msgid "Ends"
+msgid "Pause video when opening info"
 msgstr "Termina"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Info.xml
 msgctxt "#31268"
-msgid "Customise infoline"
+msgid "Ends"
 msgstr "Personalizar linha de info"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31269"
-msgid "Infoline"
+msgid "Customise infoline"
 msgstr "Linha de info"
 
-#: /1080i/Items.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31270"
-msgid "Single image"
+msgid "Infoline"
 msgstr "Única imagem"
 
 #: /1080i/Items.xml
 msgctxt "#31271"
-msgid "Image folder"
+msgid "Single image"
 msgstr "Pasta de imagem"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Items.xml
 msgctxt "#31272"
-msgid "Automatically display info on big poster row after delay"
+msgid "Image folder"
 msgstr "Exibir informações automaticamente na grande linha de pôsteres após o atraso"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31273"
-msgid "Text labels on big landscape viewtypes"
+msgid "Automatically display info on big poster row after delay"
 msgstr "Rótulos de texto em grandes tipos de vista de paisagem"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31274"
-msgid "Expand full info widgets to include header and footer"
+msgid "Text labels on big landscape viewtypes"
 msgstr "Expanda widgets de informações completas para incluir cabeçalho e rodapé"
 
-#: /1080i/Views_Wall.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31275"
-msgid "Media Info Wall"
+msgid "Expand full info widgets to include header and footer"
 msgstr "Mural de informações de mídia"
 
-#: /1080i/Views_List.xml
+#: /1080i/Views_Wall.xml
 msgctxt "#31276"
-msgid "Media Info List"
+msgid "Media Info Wall"
 msgstr "Lista de informações de mídia"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Views_List.xml
 msgctxt "#31277"
-msgid "Section label"
+msgid "Media Info List"
 msgstr "Rótulo da seção"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31278"
-msgid "Clock"
+msgid "Section label"
 msgstr "Relógio"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31279"
-msgid "Studio icons"
+msgid "Clock"
 msgstr "Ícones do Estúdio"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31280"
-msgid "Media information"
+msgid "Studio icons"
 msgstr "Informações da Mídia"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31281"
-msgid "Invert PVR progress line colour"
+msgid "Media information"
 msgstr "Inverter cor da linha de progresso de PVR"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31282"
-msgid "Autohide seekbar after pausing"
+msgid "Invert PVR progress line colour"
 msgstr "Ocultar automaticamente a barra de busca após a pausa"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31283"
-msgid "Expanded widgets include media information in footer"
+msgid "Autohide seekbar after pausing"
 msgstr "Widgets expandidos incluem informações de mídia no rodapé"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31284"
-msgid "Expanded widgets move title to header for additional line of plot"
+msgid "Expanded widgets include media information in footer"
 msgstr "Widgets expandidos movem o título para o cabeçalho para uma linha de plotagem adicional"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31285"
-msgid "Classification (MPAA)"
+msgid "Expanded widgets move title to header for additional line of plot"
 msgstr "Classificação (MPAA)"
 
-#: /1080i/Includes_Labels.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31286"
-msgid "Won"
+msgid "Classification (MPAA)"
 msgstr "Vencedor"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31287"
-msgid "Nominated for"
+msgid "Won"
 msgstr "Indicado a"
 
-#: /1080i/Includes_Items.xml
+#: /1080i/Includes_Labels.xml
 msgctxt "#31288"
-msgid "Use larger flixart size"
+msgid "Nominated for"
 msgstr "Usar tamanho maior de flixart"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31289"
-msgid "Use local library info for recommendations"
+msgid "Use larger flixart size"
 msgstr "Use as informações da biblioteca local para recomendações"
 
-#: /1080i/Includes_Labels.xml
+#: /1080i/Includes_Items.xml
 msgctxt "#31290"
-msgid "Open submenu"
+msgid "Use local library info for recommendations"
 msgstr "Abrir Submenu"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31291"
-msgid "Open power menu"
+msgid "Open submenu"
 msgstr "Abrir menu energia"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31292"
-msgid "Do nothing"
+msgid "Open power menu"
 msgstr "Não fazer nada"
 
-#: /1080i/VideoOSD.xml
+#: /1080i/Includes_Labels.xml
 msgctxt "#31293"
-msgid "Press down for cast and more info"
+msgid "Do nothing"
 msgstr "Pressione para baixo para elenco e mais informações"
 
-#: /1080i/Includes_Labels.xml
+#: /1080i/VideoOSD.xml
 msgctxt "#31294"
-msgid "Press down for bookmarks and chapters"
+msgid "Press down for cast and more info"
 msgstr "Pressione para baixo para marcadores e capítulos"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31295"
-msgid "Press down for channels"
+msgid "Press down for bookmarks and chapters"
 msgstr "Pressione para baixo para canais"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31296"
-msgid "Press down for playlist"
+msgid "Press down for channels"
 msgstr "Pressione para baixo para listas de reprodução"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Includes_Labels.xml
 msgctxt "#31297"
-msgid "Minimal icon-only menu style"
+msgid "Press down for playlist"
 msgstr "Estilo de menu mínimo só com ícones"
 
-#: /1080i/Includes_Labels.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31298"
-msgid "Press down for movies and tv shows starring this actor"
+msgid "Minimal icon-only menu style"
 msgstr "Pressione para baixo para filmes e seriados estrelados por este ator"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31299"
-msgid "Information is loading"
+msgid "Press down for movies and tv shows starring this actor"
 msgstr "Informação está sendo carregada"
 
-#: /1080i/Custom_1112_Backgrounds.xml
+#: /1080i/Includes_Labels.xml
 msgctxt "#31300"
-msgid "Mirror list alignment"
+msgid "Information is loading"
 msgstr "Alinhamento de lista espelho"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31301"
-msgid "Kiosk Mode"
+msgid "Mirror list alignment"
 msgstr "Modo de quiosque"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31302"
-msgid "Management options"
+msgid "Kiosk Mode"
 msgstr "Opções de gerenciamento"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31303"
-msgid "Viewtype customisation"
+msgid "Management options"
 msgstr "Personalização de tipo de exibição"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31304"
-msgid "Override song list layout with basic track naming template"
+msgid "Viewtype customisation"
 msgstr "Substituir o layout da lista de músicas com o modelo básico de nomenclatura de faixas"
 
-#: /1080i/Includes_Items.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31305"
-msgid "FlixArt in info dialog"
+msgid "Override song list layout with basic track naming template"
 msgstr "FlixArt em diálogo de info"
 
-#: /1080i/Custom_1121_Hub_TMDb_TVShows.xml
+#: /1080i/Includes_Items.xml
 msgctxt "#31306"
-msgid "Watchlist"
+msgid "FlixArt in info dialog"
 msgstr "Lista para Assistir"
 
 #: /1080i/Custom_1121_Hub_TMDb_TVShows.xml
 msgctxt "#31307"
-msgid "Recently watched"
+msgid "Watchlist"
 msgstr "Assistidos recentemente"
 
 #: /1080i/Custom_1121_Hub_TMDb_TVShows.xml
 msgctxt "#31308"
-msgid "Last week"
+msgid "Recently watched"
 msgstr "Última semana"
 
 #: /1080i/Custom_1121_Hub_TMDb_TVShows.xml
 msgctxt "#31309"
-msgid "Next week"
+msgid "Last week"
 msgstr "Próxima semana"
 
 #: /1080i/Custom_1121_Hub_TMDb_TVShows.xml
 msgctxt "#31310"
-msgid "Trending"
+msgid "Next week"
 msgstr "Em Alta"
 
 #: /1080i/Custom_1121_Hub_TMDb_TVShows.xml
 msgctxt "#31311"
-msgid "Airing"
+msgid "Trending"
 msgstr "Em Exibição"
 
-#: /1080i/Custom_1120_Hub_TMDb_Movies.xml
+#: /1080i/Custom_1121_Hub_TMDb_TVShows.xml
 msgctxt "#31312"
-msgid "In theatres"
+msgid "Airing"
 msgstr "Nos cinemas"
 
 #: /1080i/Custom_1120_Hub_TMDb_Movies.xml
 msgctxt "#31313"
-msgid "Upcoming"
+msgid "In theatres"
 msgstr "Em Breve"
 
-#: /shortcuts/overrides.xml
+#: /1080i/Custom_1120_Hub_TMDb_Movies.xml
 msgctxt "#31314"
-msgid "Hub - Movies (TMDbHelper)"
+msgid "Upcoming"
 msgstr "Hub - Filmes (TMDbHelper)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31315"
-msgid "Hub - TV Shows (TMDbHelper)"
+msgid "Hub - Movies (TMDbHelper)"
 msgstr "Hub - Seriados (TMDbHelper)"
 
-#: /1080i/Custom_1122_Hub_TMDb_Mixed.xml
+#: /shortcuts/overrides.xml
 msgctxt "#31316"
-msgid "Most played"
+msgid "Hub - TV Shows (TMDbHelper)"
 msgstr "Mais Reproduzidos"
 
 #: /1080i/Custom_1122_Hub_TMDb_Mixed.xml
 msgctxt "#31317"
-msgid "Most watched"
+msgid "Most played"
 msgstr "Mais Vistos"
 
 #: /1080i/Custom_1122_Hub_TMDb_Mixed.xml
 msgctxt "#31318"
-msgid "Random combined"
+msgid "Most watched"
 msgstr "Combinado aleatório"
 
 #: /1080i/Custom_1122_Hub_TMDb_Mixed.xml
 msgctxt "#31319"
-msgid "Random movie genre"
+msgid "Random combined"
 msgstr "Gênero de filme aleatório"
 
 #: /1080i/Custom_1122_Hub_TMDb_Mixed.xml
 msgctxt "#31320"
-msgid "Random TV genre"
+msgid "Random movie genre"
 msgstr "Gênero de seriado aleatório"
 
 #: /1080i/Custom_1122_Hub_TMDb_Mixed.xml
 msgctxt "#31321"
-msgid "Random keyword"
+msgid "Random TV genre"
 msgstr "Palavra-chave aleatório"
 
 #: /1080i/Custom_1122_Hub_TMDb_Mixed.xml
 msgctxt "#31322"
-msgid "Liked"
+msgid "Random keyword"
 msgstr "Curtido"
 
 #: /1080i/Custom_1122_Hub_TMDb_Mixed.xml
 msgctxt "#31323"
-msgid "Your"
+msgid "Liked"
 msgstr "Seu"
 
-#: /1080i/Includes_Items.xml
+#: /1080i/Custom_1122_Hub_TMDb_Mixed.xml
 msgctxt "#31324"
-msgid "Background"
+msgid "Your"
 msgstr "Fundo"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31325"
-msgid "Expanded widget artwork"
+msgid "Background"
 msgstr "Arte expandida do widget"
 
-#: /1080i/Custom_1112_Backgrounds.xml
+#: /1080i/Includes_Items.xml
 msgctxt "#31326"
-msgid "Stretch"
+msgid "Expanded widget artwork"
 msgstr "Alongar"
 
 #: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31327"
-msgid "Expanded"
+msgid "Stretch"
 msgstr "Expandir"
 
-#: /shortcuts/overrides.xml
+#: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31328"
-msgid "Hub - Movies (Library)"
+msgid "Expanded"
 msgstr "Hub - Filmes (Biblioteca)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31329"
-msgid "Hub - TV Shows (Library)"
+msgid "Hub - Movies (Library)"
 msgstr "Hub - Seriados (Biblioteca)"
 
-#: /1080i/SkinSettings.xml
+#: /shortcuts/overrides.xml
 msgctxt "#31330"
-msgid "Widget end row action"
+msgid "Hub - TV Shows (Library)"
 msgstr "Ação de linha final do widget"
 
-#: /shortcuts/overrides.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31331"
-msgid "Hub - TMDbHelper (Discover)"
+msgid "Widget end row action"
 msgstr "Hub - TMDbHelper (Descobrir)"
 
-#: /1080i/SkinSettings.xml
+#: /shortcuts/overrides.xml
 msgctxt "#31332"
-msgid "TMDbHelper hub quick navbar"
+msgid "Hub - TMDbHelper (Discover)"
 msgstr "Hub TMDbHelper de navegação rápida"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31333"
-msgid "Use text labels"
+msgid "TMDbHelper hub quick navbar"
 msgstr "Usar texto nos rótulos"
 
-#: /1080i/script-tmdbhelper-recommendations.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31334"
-msgid "Comments"
+msgid "Use text labels"
 msgstr "Comentários"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/script-tmdbhelper-recommendations.xml
 msgctxt "#31335"
-msgid "Thin selectbox"
+msgid "Comments"
 msgstr "Caixa de seleção fina"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31336"
-msgid "Selectbox style"
+msgid "Thin selectbox"
 msgstr "Estilo da caixa de seleção"
 
-#: /1080i/Includes_Labels.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31337"
-msgid "Thin"
+msgid "Selectbox style"
 msgstr "Fina"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Includes_Labels.xml
 msgctxt "#31338"
-msgid "Filename source icons"
+msgid "Thin"
 msgstr "Ícones de origem de nome de arquivo"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31339"
-msgid "Focus buttons when opening info dialog"
+msgid "Filename source icons"
 msgstr "Botões de foco ao abrir a caixa de diálogo de informações"
 
-#: /1080i/Custom_1112_Backgrounds.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31340"
-msgid "Wrap long titles"
+msgid "Focus buttons when opening info dialog"
 msgstr "Enrole títulos longos"
 
-#: /1080i/Includes_DialogInfo.xml
+#: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31341"
-msgid "Screenplay by"
+msgid "Wrap long titles"
 msgstr "Roteiro de"
 
-#: /1080i/Includes_Views_Combined.xml
+#: /1080i/Includes_DialogInfo.xml
 msgctxt "#31342"
-msgid "Media Info Combined"
+msgid "Screenplay by"
 msgstr "Informações de mídia combinadas"
 
-#: /1080i/Includes_Views_List.xml
+#: /1080i/Includes_Views_Combined.xml
 msgctxt "#31343"
-msgid "Poster List"
+msgid "Media Info Combined"
 msgstr "Lista de Pôsteres"
 
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31344"
-msgid "Poster Infolist"
+msgid "Poster List"
 msgstr "Lista com Info de Pôsteres"
 
 #: /1080i/Includes_Views_List.xml
 msgctxt "#31345"
-msgid "Big Poster List"
+msgid "Poster Infolist"
 msgstr "Lista de Grandes de Pôsteres"
 
-#: /1080i/MusicOSD.xml
+#: /1080i/Includes_Views_List.xml
 msgctxt "#31346"
-msgid "Press down for more by this artist"
+msgid "Big Poster List"
 msgstr "Pressione para baixo para mais deste artista"
 
-#: /1080i/Includes_Labels.xml
+#: /1080i/MusicOSD.xml
 msgctxt "#31347"
-msgid "Glow"
+msgid "Press down for more by this artist"
 msgstr "Brilho"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31348"
-msgid "Press down for channel EPG"
+msgid "Glow"
 msgstr "Pressione para baixo para o canal EPG"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Includes_Labels.xml
 msgctxt "#31349"
-msgid "Swap info button for options on fullscreen fanart widgets"
+msgid "Press down for channel EPG"
 msgstr "Troque o botão de informações por opções em widgets de fanart em tela cheia"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31350"
-msgid "Thanks"
+msgid "Swap info button for options on fullscreen fanart widgets"
 msgstr "Obrigado"
 
-#: /1080i/Includes_Views_Row.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31351"
-msgid "Big Square Row"
+msgid "Thanks"
 msgstr "Linha Quadrada Grande"
 
-#: /1080i/Includes_Views_Wall.xml
+#: /1080i/Includes_Views_Row.xml
 msgctxt "#31352"
-msgid "Big Square Wall"
+msgid "Big Square Row"
 msgstr "Parede Quadrada Grande"
 
-#: /1080i/Includes_Labels.xml
+#: /1080i/Includes_Views_Wall.xml
 msgctxt "#31353"
-msgid "Open menu"
+msgid "Big Square Wall"
 msgstr "Abrir menu"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31354"
-msgid "Open group switcher"
+msgid "Open menu"
 msgstr "Abrir alternador de grupo"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Includes_Labels.xml
 msgctxt "#31355"
-msgid "Press back from EPG"
+msgid "Open group switcher"
 msgstr "Pressionar voltar do EPG"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31356"
-msgid "Expanded widget style"
+msgid "Press back from EPG"
 msgstr "Estilo de widget expandido"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31357"
-msgid "Selectbox shadow"
+msgid "Expanded widget style"
 msgstr "Sombra da caixa de seleção"
 
-#: /1080i/Custom_1198_Startup.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31358"
-msgid "Waiting for plugins"
+msgid "Selectbox shadow"
 msgstr "Aguardando pelos plugins"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Custom_1198_Startup.xml
 msgctxt "#31359"
-msgid "Wait for plugins to initialise on startup"
-msgstr "Aguarde pelos plugins para inicializar ao abrir "
+msgid "Waiting for plugins"
+msgstr "Aguarde pelos plugins para inicializar ao abrir"
 
-#: /1080i/Includes_Items.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31360"
-msgid "Disable all ratings"
+msgid "Wait for plugins to initialise on startup"
 msgstr "Desabilitar todas as avaliações"
 
-#: /1080i/SkinSettings.xml
+#: /1080i/Includes_Items.xml
 msgctxt "#31361"
-msgid "Customise background image"
+msgid "Disable all ratings"
 msgstr "Personalizar imagem de fundo"
 
-#: /1080i/Custom_1112_Backgrounds.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31362"
-msgid "Media Info Basic"
+msgid "Customise background image"
 msgstr "Informações Básicas de Mídia"
 
-#: /1080i/Includes_Views_List.xml
+#: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31363"
-msgid "Media Info Playlist"
+msgid "Media Info Basic"
 msgstr "Informações de mídia da lista de reprodução"
 
-#: /1080i/script-skinshortcuts.xml
+#: /1080i/Includes_Views_List.xml
 msgctxt "#31364"
-msgid "Hub fullscreen widget"
+msgid "Media Info Playlist"
 msgstr "Widget de tela cheia central"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31365"
-msgid "Hub submenu node"
+msgid "Hub fullscreen widget"
 msgstr "Nó do submenu do hub"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31366"
-msgid "Hub widget nodes"
+msgid "Hub submenu node"
 msgstr "Nós do widget de hub"
 
-#: /shortcuts/overrides.xml
+#: /1080i/script-skinshortcuts.xml
 msgctxt "#31367"
-msgid "Hub - Custom"
+msgid "Hub widget nodes"
 msgstr "Hub - Personalizado"
 
-#: /1080i/script-skinshortcuts.xml
+#: /shortcuts/overrides.xml
 msgctxt "#31368"
-msgid "Customise hub"
+msgid "Hub - Custom"
 msgstr "Personalizar hub"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31369"
-msgid "Customise node"
+msgid "Customise hub"
 msgstr "Personlizar nó"
 
-#: /1080i/Includes_Labels.xml
+#: /1080i/script-skinshortcuts.xml
 msgctxt "#31370"
-msgid "Press left from home menu"
+msgid "Customise node"
 msgstr "Pressione à esquerda no menu inicial"
 
-#: /shortcuts/overrides.xml
+#: /1080i/Includes_Labels.xml
 msgctxt "#31371"
-msgid "Stacked - Displays folder of item focused in widget above"
+msgid "Press left from home menu"
 msgstr "Empilhado - Exibe a pasta do item focado no widget acima"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31372"
-msgid "Stacked"
+msgid "Stacked - Displays folder of item focused in widget above"
 msgstr "Empilhado"
 
-#: /1080i/Includes_Items.xml
+#: /shortcuts/overrides.xml
 msgctxt "#31373"
-msgid "Classification"
+msgid "Stacked"
 msgstr "Classificação"
 
-#: /shortcuts/overrides.xml
+#: /1080i/Includes_Items.xml
 msgctxt "#31374"
-msgid "Favourites dialog"
+msgid "Classification"
 msgstr "Diálogo de favoritos"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31375"
-msgid "Favourites browser"
+msgid "Favourites dialog"
 msgstr "Navegador de favoritos"
 
-#: /1080i/SkinSettings.xml
+#: /shortcuts/overrides.xml
 msgctxt "#31376"
-msgid "Default menu position (starts at 0)"
+msgid "Favourites browser"
 msgstr "Posição padrão do menu (começa em 0)"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31377"
-msgid "Standard widgets have header furniture and navigation hints"
+msgid "Default menu position (starts at 0)"
 msgstr "Widgets padrão têm mobília de cabeçalho e dicas de navegação"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31378"
-msgid "Auto pop-up OSD dialogs"
+msgid "Standard widgets have header furniture and navigation hints"
 msgstr "Popup automático da caixa de diálogos OSD"
 
-#: /1080i/Custom_1144_OSD_SubtitleStreams.xml
+#: /1080i/SkinSettings.xml
 msgctxt "#31379"
-msgid "No streams available"
+msgid "Auto pop-up OSD dialogs"
 msgstr "Nenhuma transmissão disponível"
 
-#: /1080i/Custom_1112_Backgrounds.xml
+#: /1080i/Custom_1144_OSD_SubtitleStreams.xml
 msgctxt "#31380"
-msgid "Reduce title and plot width"
+msgid "No streams available"
 msgstr "Reduza o título e a largura do gráfico"
 
-#: /shortcuts/overrides.xml
+#: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31381"
-msgid "Weather - Only available as fullscreen widget"
+msgid "Reduce title and plot width"
 msgstr "Clima - disponível apenas como widget de tela cheia"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31382"
+msgid "Weather - Only available as fullscreen widget"
+msgstr "Ação de pressionar par cima no menu"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31382"
 msgid "Menu press up action"
-msgstr "Ação de pressionar par cima no menu"
+msgstr "Acessar menu ao pressionar para cima"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31383"
+msgid "Prefer landscape art"
+msgstr "Prefira a arte da paisagem"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31384"
+msgid "Media info poster"
+msgstr "Pôster de informações de mídia"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31385"
+msgid "Custom genre icon folder"
+msgstr "Pasta de ícones de gênero personalizada"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31386"
+msgid "Unwatched only"
+msgstr "Somente não assistidos"
